@@ -1,96 +1,90 @@
 # Hi, I'm Hongwei Ding 👋
 
-**Software Engineer | Frontend → Full Stack | Hamilton, New Zealand 🇳🇿**
+**Software Developer | React, TypeScript & ASP.NET Core**
 
-I'm a software engineer with **3 years of commercial front-end development experience**, primarily working with **React, Vue and TypeScript**. I'm currently completing a **Master of Information Technology at the University of Waikato** and expanding my full-stack experience through **C#, ASP.NET Core, REST APIs, databases and cloud technologies**.
+📍 Hamilton, New Zealand  
+[LinkedIn](https://www.linkedin.com/in/hongwei-ding-nz/) · [Email](mailto:dinghw.me@gmail.com)
 
-I enjoy building practical software, solving real-world problems, and learning how systems work beyond the frontend — from APIs and data to deployment and CI/CD.
+I'm a software developer with **2+ years of commercial frontend experience**, building enterprise web applications with React, TypeScript and Vue.
 
-- 🎓 Master of Information Technology — University of Waikato
-- 💼 Commercial experience in frontend development and a New Zealand full-stack software development internship
-- 🌱 Currently growing deeper in C#/.NET, backend engineering and cloud-native development
-- 🔎 Open to Software Engineer, Frontend and Full-Stack opportunities in New Zealand
+I'm currently completing a **Master of Information Technology at the University of Waikato** and working as a **Full-Stack Software Development Intern at Keegan Electrical**. My internship involves building a practical application with React, ASP.NET Core, MySQL and Azure.
 
----
+I'm interested in software development, frontend and junior full-stack opportunities across New Zealand.
 
-## 🛠 Technical Skills
+## Technical Skills
 
-**Frontend & Mobile**  
-React · Vue 3 · TypeScript · JavaScript · React Native · HTML5 · CSS3 · Ant Design · Element Plus
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Vue, TypeScript, JavaScript, HTML, CSS, Ant Design, Element UI, Element Plus |
+| Backend & Databases | ASP.NET Core, C#, REST APIs, JWT, MySQL, Redis |
+| Cloud & DevOps | Azure App Service, AWS S3, Docker, GitHub Actions, CI/CD, Linux |
+| AI Integration & Tools | OpenAI API, Git, GitHub, GitHub Copilot, Cursor |
 
-**Backend & Database**  
-C# · ASP.NET Core · Node.js · Express.js · REST APIs · JWT · MySQL · SQLite · Redis
+## Professional Experience
 
-**Cloud & DevOps**  
-Azure · AWS EC2 · Docker · GitHub Actions · Linux · Git
+### Keegan Electrical — Software Development Intern (Full-Stack)
 
-**AI-Assisted Development**  
-GitHub Copilot · Cursor · ChatGPT
+**Aug 2026 – Present | Hamilton, New Zealand**
 
----
+- Built a React and TypeScript PWA that converts electricians' voice recordings into reviewable material lists matched against a catalogue of **3,154 products**.
+- Developed ASP.NET Core 8 APIs and a MySQL backend, integrating OpenAI transcription and extraction of product names and quantities.
+- Implemented fuzzy product matching, manual corrections, user confirmation and TXT/CSV exports.
+- Deployed the application to Azure App Service using GitHub Actions, with automated linting, type checks and builds.
 
-## 🚀 Featured Projects
+### Jiacheng Information Technology — Front-End Developer
 
-### [KiwiConnect Waikato](https://github.com/user-dhw/KiwiConnect) — Student Community Platform
+**Jun 2023 – Jul 2024 | China**
 
-A full-stack community and information exchange platform designed around student needs, with public-facing and administration experiences.
+- Developed enterprise workflow and approval features using **React, TypeScript and Ant Design**.
+- Built reusable components for approvals, assignee selection, task handling and workflow history.
+- Integrated business APIs and collaborated with backend developers and product teams.
 
-**Vue 3 · ASP.NET Core 8 · MySQL · JWT · Azure · GitHub Actions**
+### Jilin University Communication Design Institute — Front-End Developer
 
-- Built the full-stack application across the Vue frontend, administration console and ASP.NET Core REST API
-- Implemented authentication, role-based access, content interactions, file uploads and administration workflows
-- Deployed application services to Azure with CI/CD through GitHub Actions
+**Dec 2021 – May 2023 | China**
 
-### [NZ Housing Data Dashboard](https://github.com/user-dhw/NZ-Housing-Data-Dashboard)
+- Developed frontend features using **Vue and Element UI** for engineering cost estimation, budgeting and smart canteen management systems.
+- Built data-entry interfaces, administrative screens and mobile-facing pages for dietary and health data visualisation.
 
-An interactive data dashboard exploring New Zealand housing information and presenting data through a clear, accessible web interface.
+## Selected Projects
 
-### [Te Tahi-o-Te-Rā Digital Storytelling](https://github.com/user-dhw/570_Te_Tahi)
+### KiwiConnect Waikato — Student Community Platform
 
-A digital storytelling experience developed as part of a University of Waikato project, with interactive activities and responsive experiences designed around the story and its themes.
+**Vue · ASP.NET Core 8 · MySQL · JWT · Azure App Service · GitHub Actions**
 
-> Additional full-stack work includes an asynchronous file-conversion platform built with React, ASP.NET Core, Redis, .NET Worker and Docker.
+A student community platform supporting Q&A, events, marketplace listings and content administration.
 
----
+- Developed REST APIs, JWT authentication and role-based access control for users and administrators.
+- Deployed the frontend and backend to Azure App Service with continuous deployment through GitHub Actions.
 
-## 💼 Software Experience
+### File Converter — Asynchronous Document Conversion Platform
 
-### Software Development Intern — Full-Stack Software Developer
-**Keegan Electrical New Zealand** · Hamilton, New Zealand · Aug 2026 – Oct 2026
+**React · ASP.NET Core · Redis · .NET Worker · Docker**
 
-- Built a voice-first React and TypeScript PWA that turns electricians' job-site recordings into structured, reviewable material lists
-- Developed an ASP.NET Core 8 REST API and MySQL backend and integrated AI-assisted transcription and structured extraction
-- Deployed React and .NET services to Azure with GitHub Actions CI/CD
+A document-conversion application supporting PDF, Word, PowerPoint and Excel files.
 
-### Front-End Developer
-**Jiacheng Information Technology Ltd** · China · Jun 2023 – Jul 2024
+- Used a Redis-backed job queue to separate API requests from background conversion processing in a .NET Worker.
+- Built a React interface for uploading files, tracking conversion status and downloading results.
 
-- Developed an enterprise OA platform using Vue 3 and TypeScript across workflow-driven internal business processes
-- Built reusable workflow functionality for approvals, task handling, assignee selection and workflow history
-- Integrated frontend modules with business and workflow APIs in collaboration with backend and product teams
+### Flex Share — Ride-Sharing Platform
 
-### Front-End Developer
-**Jilin University Communication Design Institute Co., Ltd.** · China · Dec 2021 – May 2023
+**Academic team project | Frontend development**
 
-- Developed frontend features for engineering cost estimation and smart canteen management systems
-- Built budgeting-related interfaces and administrative data-management features
-- Developed mobile-facing experiences including dietary and health data visualisation
+**React · JavaScript · Vite · Ant Design Mobile · Google Maps API · AWS S3 · GitHub Actions**
 
----
+A mobile-first ride-sharing application with passenger and driver workflows.
 
-## 🎓 Education
+- Developed passenger route search, seat booking and order tracking, alongside driver route publishing and trip management.
+- Integrated Google Maps APIs for location search, geocoding, route planning and interactive maps.
+- Centralised API authentication and error handling, and implemented protected routes for passenger and driver access.
+- Automated frontend builds and deployment to AWS S3 using GitHub Actions.
+
+## Education
 
 **Master of Information Technology**  
-University of Waikato · Hamilton, New Zealand · 2025 – 2026
+University of Waikato, New Zealand  
+Jul 2025 – Nov 2026 (Expected)
 
 **Bachelor of Computer Science and Technology**  
-Changchun University of Technology · China · 2020 – 2022
-
----
-
-## 📫 Connect
-
-- 📧 **Email:** dinghw.me@gmail.com
-- 💻 **GitHub:** [github.com/user-dhw](https://github.com/user-dhw)
-
-Thanks for visiting my profile!
+Changchun University of Technology, China  
+Jun 2020 – Jun 2022
