@@ -6,9 +6,7 @@ I'm based in Hamilton, New Zealand, with **2+ years of commercial frontend exper
 
 I'm currently completing a Master of Information Technology at the University of Waikato. During my full-stack internship at Keegan Electrical, I'm building an application that turns electricians' voice recordings into reviewable material lists using React, ASP.NET Core, MySQL and the OpenAI API.
 
-[LinkedIn](https://www.linkedin.com/in/hongwei-ding-nz/) · [Email](mailto:dinghw.me@gmail.com)
-
-<!-- https://rxresu.me/dhw992233/hongwei-ding-resume -->
+[View my CV](https://rxresu.me/dinghw/hongwei-ding-resume) · [LinkedIn](https://www.linkedin.com/in/hongwei-ding-nz/) · [Email](mailto:dinghw.me@gmail.com)
 
 ## Featured Projects
 
@@ -41,7 +39,7 @@ A mobile-first ride-sharing platform developed as an academic team project. My c
 
 **Built with:** React · JavaScript · Ant Design Mobile · Google Maps API · AWS S3 · GitHub Actions
 
-<!-- https://github.com/Flexshare2025/Flexshare -->
+[View repository](https://github.com/Flexshare2025/Flexshare)
 
 ## Technologies I Work With
 
